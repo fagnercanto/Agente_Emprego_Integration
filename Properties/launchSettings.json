@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Agente_Emprego_Integration": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7126",
+      "launchBrowser": false
+    }
+  }
+}
