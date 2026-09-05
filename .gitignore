@@ -4,6 +4,10 @@
 # Azure Functions localsettings file
 local.settings.json
 
+# Credenciais e tokens do Google OAuth (Gmail API) - nunca versionar
+Gmail_Client_Secret.json
+Token_Gmail/
+
 # User-specific files
 *.suo
 *.user
